@@ -49,7 +49,7 @@ function App() {
           </a>
           <br />
           <br />
-          <a href="https://www.instagram.com/granjazamboni/" target="_blank">
+          <a href="https://www.instagram.com/zambonimorangos/" target="_blank">
           <Text fontSize='3xl' as='u'>
           <Image margin='auto' src='./instagram.png' h='50px' verticalAlign='middle' display='inline-block' mr='10px' />
           Conheça nossos produtos
