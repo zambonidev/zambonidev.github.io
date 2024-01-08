@@ -1,8 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import { Box, Button, ChakraProvider, Grid, GridItem, Icon, IconButton, Image, SimpleGrid, Text } from '@chakra-ui/react';
-import { IconBrandWhatsapp } from '@tabler/icons-react';
+import { Box, Button, ChakraProvider, Image, SimpleGrid, Text } from '@chakra-ui/react';
 
 function App() {
   return (
@@ -52,7 +49,7 @@ function App() {
           </a>
           <br />
           <br />
-          <a href="https://www.instagram.com/granjazamboni/">
+          <a href="https://www.instagram.com/granjazamboni/" target="_blank">
           <Text fontSize='3xl' as='u'>
           <Image margin='auto' src='./instagram.png' h='50px' verticalAlign='middle' display='inline-block' mr='10px' />
           Conheça nossos produtos
