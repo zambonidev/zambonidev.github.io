@@ -50,11 +50,17 @@ function App() {
           <a href="https://wa.me/5554991462283" target="_blank">
           <Button colorScheme='whatsapp' size='lg'><Image src='./whats.png' h='30px' verticalAlign='middle' display='inline-block' mr='10px' /> Entrar em Contato</Button>
           </a>
-          
           <br />
           <br />
-          <Text fontSize='1xl'>Frete sob consulta para Santa Catarina e Rio Grande do Sul, demais estados apenas retirada no local Vacaria - Rio Grande do Sul*</Text>
+          <a href="https://www.instagram.com/granjazamboni/">
+          <Text fontSize='3xl' as='u'>
+          <Image margin='auto' src='./instagram.png' h='50px' verticalAlign='middle' display='inline-block' mr='10px' />
+          Conheça nossos produtos
+          </Text>
+          </a>
           <br />
+          <br />
+          <Text fontSize='xl'>Frete sob consulta para Santa Catarina e Rio Grande do Sul, demais estados apenas retirada no local Vacaria, Rio Grande do Sul*</Text>
           <br />
           <Image margin='auto' src='./zamboni.png' h='50px' />
         </Box>
